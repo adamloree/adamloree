@@ -22,6 +22,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">   
   </a> 
   <a href="https://www.javascript.com/" rel="nofollow"> 
-    <img src="https://pngset.com/images/library-of-javascript-icon-graphic-freeuse-files-logo-logo-javascript-icon-in-number-symbol-text-first-aid-transparent-png-1497709.png" alt="javascript" width="40" height="40" style="max-width: 100%;">   
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40" style="max-width: 100%;">   
+  </a> 
+  <a href="https://www.java.com/" rel="nofollow"> 
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" alt="java" width="40" height="40" style="max-width: 100%;">   
+  </a> 
+  <a href="https://www.mysql.com/" rel="nofollow"> 
+    <img src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" alt="mysql" width="40" height="40" style="max-width: 100%;">   
   </a> 
 </p>
