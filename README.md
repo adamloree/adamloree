@@ -1,15 +1,10 @@
 <h1 align="center" dir="auto">Hi 👋, I’m Adam Loree</h1>
-<details>
 <summary>About Me</summary>
 <ul dir="auto">
   <li>
-    <p>🔭Computer Engineer currently seeking employment</p>
-  </li>
-  <li>
-    <p>📫Reach me at: adamloree@gmail.com</p>
+    <p>🔭Computer Engineer</p>
   </li>
 </ul>
-</details>
 <h3 align="left" dir="auto">Tools:</h3>
 <p align="left" dir="auto"> 
   <a href="https://git-scm.com/" rel="nofollow"> 
